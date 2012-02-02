@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>categories.xml</file>
+        <file>districts.xml</file>
+        <file>splash_landscape.jpg</file>
+        <file>splash_portrait.jpg</file>
+    </qresource>
+</RCC>
